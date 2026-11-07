@@ -1,58 +1,32 @@
-<div align="center">
+# Mithilesh Gautam
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mithilesh;I+build+backend+systems+and+LLM+apps;RAG+%E2%80%A2+AI+agents+%E2%80%A2+PostgreSQL;Learning+LLM+inference" />
+**Engineer working on retrieval, agents and the systems that serve LLMs.**
+Bengaluru, India · [LinkedIn](https://www.linkedin.com/in/iammgautam)
 
-`python` · `postgres` · `llms` · `ai agents`
-
-</div>
+I build LLM applications end to end: retrieval, tool-using agents, routing across model providers, and the database and backend layers under them. I care about systems that stay fast and correct in production. Lately I'm working down the stack, toward LLM inference and serving.
 
 ---
 
-```bash
-$ whoami
-mithilesh, builds backend systems and LLM-powered applications
+### Selected work
 
-$ cat focus.txt
-→ RAG pipelines and retrieval quality
-→ AI agents with tool calling
-→ LLM inference: serving, batching, kv-cache
-→ PostgreSQL performance
-```
+| | |
+|---|---|
+| **RAG and agent platform** | Retrieval-augmented generation on PostgreSQL + pgvector, with multi-provider LLM routing, embeddings, tool orchestration and agent workflows. Runs in production in a multi-tenant SaaS product. |
+| **Postgres-native task executor** | Distributed task execution built entirely on PostgreSQL (queuing, fan-out/join, idempotency) with no Celery or Redis. |
+| **Analytics query, 239 s → 0.9 s** | Over 250× faster from rollup tables, indexing strategy, JSONB and full-text search. |
+| **ORM query elimination** | Request SQL time from ~15–25 s to ~1–2 s and queries per request from 500+ to ~5–10 by removing N+1 patterns. |
 
-### ⚡ Currently
+### Research interests
 
-- 🛠️ Building **RAG pipelines and AI agents**
-- 🧪 Learning **LLM inference**: vLLM, quantization, GPUs
-- 🐘 Using **PostgreSQL** for queues, vector search and full-text search
+- **LLM inference:** serving engines (vLLM), continuous batching, KV-cache management, quantization
+- **Retrieval quality:** chunking, hybrid search, reranking, evaluation for RAG
+- **Agents:** reliable tool calling, orchestration, failure modes
+- **Databases as infrastructure:** using PostgreSQL for queues, vectors and search
 
-### 🧰 Toolbox
+### Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,aws,ts,vue,tailwind,git,linux,vscode&perline=12" />
-</p>
+`Python` `Django` `PostgreSQL` `pgvector` `Redis` `Docker` `AWS` `TypeScript` `Vue.js`
 
-<p align="center">
-  <code>pgvector</code> · <code>embeddings</code> · <code>tool calling</code> · <code>agents</code> · <code>Claude Code</code>
-</p>
+---
 
-### 🐍 Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iammgautam/iammgautam/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/iammgautam/iammgautam/output/snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iammgautam&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="160" src="https://streak-stats.demolab.com?user=iammgautam&hide_border=true&theme=tokyonight" />
-</p>
-
-<div align="center">
-
-**Ship small · Ship often**
-
-![visitors](https://komarev.com/ghpvc/?username=iammgautam&color=a78bfa&style=flat-square&label=visitors)
-
-</div>
+<sub>Open to conversations about retrieval, agents and inference systems.</sub>
