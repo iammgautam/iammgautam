@@ -1,13 +1,23 @@
+<div align="center">
+
 # Mithilesh Gautam
 
-**Engineer working on retrieval, agents and the systems that serve LLMs.**
-Bengaluru, India · [LinkedIn](https://www.linkedin.com/in/iammgautam)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Retrieval+%E2%80%A2+Agents+%E2%80%A2+LLM+inference;Systems+that+stay+fast+and+correct+in+production;Working+down+the+stack%2C+toward+serving" />
 
-I build LLM applications end to end: retrieval, tool-using agents, routing across model providers, and the database and backend layers under them. I care about systems that stay fast and correct in production. Lately I'm working down the stack, toward LLM inference and serving.
+**Engineer working on retrieval, agents and the systems that serve LLMs.**
+
+Bengaluru, India
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iammgautam)
+![visitors](https://komarev.com/ghpvc/?username=iammgautam&color=a78bfa&style=flat-square&label=visitors)
+
+</div>
 
 ---
 
-### Selected work
+I build LLM applications end to end: retrieval, tool-using agents, routing across model providers, and the database and backend layers under them. I care about systems that stay fast and correct in production. Lately I'm working down the stack, toward LLM inference and serving.
+
+### 🔬 Selected work
 
 | | |
 |---|---|
@@ -16,17 +26,39 @@ I build LLM applications end to end: retrieval, tool-using agents, routing acros
 | **Analytics query, 239 s → 0.9 s** | Over 250× faster from rollup tables, indexing strategy, JSONB and full-text search. |
 | **ORM query elimination** | Request SQL time from ~15–25 s to ~1–2 s and queries per request from 500+ to ~5–10 by removing N+1 patterns. |
 
-### Research interests
+### 🧠 Research interests
 
 - **LLM inference:** serving engines (vLLM), continuous batching, KV-cache management, quantization
 - **Retrieval quality:** chunking, hybrid search, reranking, evaluation for RAG
 - **Agents:** reliable tool calling, orchestration, failure modes
 - **Databases as infrastructure:** using PostgreSQL for queues, vectors and search
 
-### Stack
+### 🧰 Stack
 
-`Python` `Django` `PostgreSQL` `pgvector` `Redis` `Docker` `AWS` `TypeScript` `Vue.js`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,aws,ts,vue,git,linux&perline=10" />
+</p>
+
+<p align="center">
+  <code>Python</code> <code>Django</code> <code>PostgreSQL</code> <code>pgvector</code> <code>Redis</code> <code>Docker</code> <code>AWS</code> <code>TypeScript</code> <code>Vue.js</code>
+</p>
+
+### 📊 Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iammgautam&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="160" src="https://streak-stats.demolab.com?user=iammgautam&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iammgautam/iammgautam/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/iammgautam/iammgautam/output/snake.svg" />
+  </picture>
+</p>
 
 ---
 
+<div align="center">
 <sub>Open to conversations about retrieval, agents and inference systems.</sub>
+</div>
