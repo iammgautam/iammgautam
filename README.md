@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=hey%2C+i'm+mithilesh+%F0%9F%91%8B;i+build+things+with+LLMs+%F0%9F%A4%96;RAG+%E2%80%A2+agents+%E2%80%A2+postgres+wizardry;currently+obsessed+with+inference+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mithilesh;I+build+backend+systems+and+LLM+apps;RAG+%E2%80%A2+AI+agents+%E2%80%A2+PostgreSQL;Learning+LLM+inference" />
 
-`python` · `postgres` · `llms` · `too many side projects`
+`python` · `postgres` · `llms` · `ai agents`
 
 </div>
 
@@ -10,25 +10,22 @@
 
 ```bash
 $ whoami
-mithilesh — builder, tinkerer, breaker of things in prod (only once, i swear)
+mithilesh, builds backend systems and LLM-powered applications
 
-$ cat interests.txt
-→ RAG pipelines that actually retrieve the right thing
-→ AI agents that call tools without going rogue
-→ making LLMs go brrr (inference, batching, kv-cache)
-→ squeezing milliseconds out of SQL queries for fun
-
-$ ls ~/now
-building-agents/   learning-vllm/   postgres-is-all-you-need/
+$ cat focus.txt
+→ RAG pipelines and retrieval quality
+→ AI agents with tool calling
+→ LLM inference: serving, batching, kv-cache
+→ PostgreSQL performance
 ```
 
-### ⚡ currently
+### ⚡ Currently
 
-- 🛠️ hacking on **RAG + AI agents** in my spare cycles
-- 🧪 going down the **LLM inference** rabbit hole: vLLM, quantization, GPUs
-- 🐘 still convinced **Postgres can do everything** (queues, vectors, search… yes really)
+- 🛠️ Building **RAG pipelines and AI agents**
+- 🧪 Learning **LLM inference**: vLLM, quantization, GPUs
+- 🐘 Using **PostgreSQL** for queues, vector search and full-text search
 
-### 🧰 toolbox
+### 🧰 Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,aws,ts,vue,tailwind,git,linux,vscode&perline=12" />
@@ -38,7 +35,7 @@ building-agents/   learning-vllm/   postgres-is-all-you-need/
   <code>pgvector</code> · <code>embeddings</code> · <code>tool calling</code> · <code>agents</code> · <code>Claude Code</code>
 </p>
 
-### 🐍 contributions, eaten
+### 🐍 Contributions
 
 <p align="center">
   <picture>
@@ -54,7 +51,7 @@ building-agents/   learning-vllm/   postgres-is-all-you-need/
 
 <div align="center">
 
-**ship small · ship often · ship weird**
+**Ship small · Ship often**
 
 ![visitors](https://komarev.com/ghpvc/?username=iammgautam&color=a78bfa&style=flat-square&label=visitors)
 
